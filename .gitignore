@@ -1,0 +1,25 @@
+*.pytest_cache
+*.egg-info
+*.egg
+*.pyc
+*.coverage
+/logs
+/dist
+/build
+/examples/recordings
+*~
+
+
+*.pyc
+*.nbc
+*.nbi
+/Agent/*
+/__pycache__/*
+/__pycache__/ 
+!/Agent/player_random/
+/__pycache__/ 
+/__pycache__/*
+
+# Pycharm
+.idea
+test.py

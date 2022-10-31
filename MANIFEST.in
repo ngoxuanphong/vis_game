@@ -1,0 +1,5 @@
+global-include *.txt 
+global-include *.py 
+global-include *.npy 
+global-include *.npz
+global-include *.xlsx

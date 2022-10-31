@@ -1,0 +1,18 @@
+Change log
+===========
+
+0.01 (27/10/2022)
+-----------------
+- First Release
+
+0.0.20 (27/10/2022)
+-----------------
+- add full game
+
+0.0.23 (29/10/2022)
+-----------------
+- fix splendor_v2 intern, raise error when return wrong action
+
+0.0.25 (31/10/2022)
+-----------------
+- split code catan_v2 
