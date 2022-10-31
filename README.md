@@ -12,6 +12,8 @@ To upgrade vis_game library, use `pip install --upgrade vis_game`.
 
 ## API
 
+**GAME:** `TLMN`, `TLMN_V2`, `Splendor`, `Splendor_v2`, `Catan`, `Catan_v2`, `Sushigo`, `MachiKoro`, `Sheriff`, `Century`
+
 The Gym API's API models environments as simple Python `env` classes. Creating environment instances and interacting with them is very simple- here's an example using the "TLMN" environment:
 
 ```python
