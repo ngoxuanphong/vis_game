@@ -1,8 +1,13 @@
 ## Installation
 
+**Install vis_game library**
 To install the base Gym library, use `pip install gym`.
 
 To upgrade vis_game library, use `pip install --upgrade vis_game`.
+
+**Clone github**
+
+`git clone http://ngoxuanphong/vis_game.git`
 
 ## API
 
