@@ -1,12 +1,12 @@
 ## Installation
 
-**Install vis_game library**
+### **Install vis_game library**
 
 To install the base Gym library, use `pip install gym`.
 
 To upgrade vis_game library, use `pip install --upgrade vis_game`.
 
-**Clone github**
+### **Clone github**
 
 `git clone http://ngoxuanphong/vis_game.git`
 
@@ -14,7 +14,9 @@ To upgrade vis_game library, use `pip install --upgrade vis_game`.
 
 **GAME:** `TLMN`, `TLMN_V2`, `Splendor`, `Splendor_v2`, `Catan`, `Catan_v2`, `Sushigo`, `MachiKoro`, `Sheriff`, `Century`
 
-The Gym API's API models environments as simple Python `env` classes. Creating environment instances and interacting with them is very simple- here's an example using the "TLMN" environment:
+Creating environment instances and interacting with them is very simple
+
+- here's an example using the "TLMN" environment:
 
 ```python
 import numpy as np
